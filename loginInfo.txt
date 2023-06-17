@@ -1,0 +1,8 @@
+sarah:jane
+d:d 
+Kelly:Smart
+sam:opy
+timmy:de11
+s:s
+versity First Year/Comp. Science Programming/Assignments/C++ Project/" && g++ MainProject.cpp -o MainProject && "/Users/deborahmosesalabi/Desktop/University/University First Year/Comp. Science Programming/Assignments/C++ Project/"MainProject:cd "/Users/deborahmosesalabi/Desktop/University/University First Year/Comp. Science Programming/Assignments/C++ Project/" && g++ MainProject.cpp -o MainProject && "/Users/deborahmosesalabi/Desktop/University/University First Year/Comp. Science Programming/Assignments/C++ Project/"MainProject
+deb:dd

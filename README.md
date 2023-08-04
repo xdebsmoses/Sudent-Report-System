@@ -1,4 +1,3 @@
-# Sudent-Report-System
 # Student Report System | C++
 
 ## Description
